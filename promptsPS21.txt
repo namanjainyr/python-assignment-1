@@ -1,0 +1,6 @@
+bornIn: 2016
+diedIn: 1988
+maxPopulation:
+minPopulation:
+maxBirth:
+maxDeath:
